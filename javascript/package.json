@@ -4,8 +4,8 @@
   "description": "Algorithms in Javascript from the book Algorithm Design",
   "main": "index.js",
   "scripts": {
-    "test-javascript": "./node_modules/.bin/mocha ./javascript/tests --require ./javascript/tests/helpers/chai.js",
-    "mocha-javascript": "./node_modules/.bin/mocha --require ./javascript/tests/helpers/chai.js"
+    "test-javascript": "./node_modules/.bin/mocha ./tests --require ./tests/helpers/chai.js",
+    "mocha-javascript": "./node_modules/.bin/mocha --require ./tests/helpers/chai.js"
   },
   "author": "",
   "license": "ISC",
